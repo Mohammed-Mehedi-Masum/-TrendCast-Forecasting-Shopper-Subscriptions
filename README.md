@@ -1,1 +1,1 @@
-# -TrendCast-Forecasting-Shopper-Subscriptions
+# TrendCast-Forecasting-Shopper-Subscriptions
